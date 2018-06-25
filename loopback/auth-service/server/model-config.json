@@ -41,5 +41,9 @@
   "People": {
     "dataSource": "mysql",
     "public": true
+  },
+  "population": {
+    "dataSource": "mysql",
+    "public": true
   }
 }
